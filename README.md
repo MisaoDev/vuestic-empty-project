@@ -52,3 +52,8 @@ Se recomiendan las siguientes extensiones para VSCode:
 - Sass
 - Vue Language Features (Volar)
 
+
+## Otros
+
+### [Inicialización](docs/init.md)
+Instrucciones de la creación del proyecto desde cero, para futura referencia.
